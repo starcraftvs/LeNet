@@ -1,0 +1,8 @@
+C:\Users\46501\source\repos\LeNet\LeNet\data\01\u=1126392778,369911306&fm=26&gp=0.jpg 0
+C:\Users\46501\source\repos\LeNet\LeNet\data\01\u=2548374857,856563337&fm=26&gp=0.jpg 0
+C:\Users\46501\source\repos\LeNet\LeNet\data\01\u=2560351430,3073827457&fm=26&gp=0.jpg 0
+C:\Users\46501\source\repos\LeNet\LeNet\data\01\u=3170295054,3162453626&fm=26&gp=0.jpg 0
+C:\Users\46501\source\repos\LeNet\LeNet\data\02\u=1378952189,3979785102&fm=26&gp=0.jpg 1
+C:\Users\46501\source\repos\LeNet\LeNet\data\02\u=1598528430,2688380846&fm=26&gp=0.jpg 1
+C:\Users\46501\source\repos\LeNet\LeNet\data\02\u=2942564242,3792943962&fm=26&gp=0.jpg 1
+C:\Users\46501\source\repos\LeNet\LeNet\data\02\u=3598895450,1009063269&fm=26&gp=0.jpg 1
